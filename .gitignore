@@ -1,0 +1,31 @@
+
+*.txt
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GEEKCXBLOG-互联网分享精神</title>
+
+<link href="../jQueryAssets/jquery.ui.core.min.css" rel="stylesheet" type="text/css">
+<link href="../jQueryAssets/jquery.ui.theme.min.css" rel="stylesheet" type="text/css">
+<link href="../jQueryAssets/jquery.ui.button.min.css" rel="stylesheet" type="text/css">
+<script src="../jQueryAssets/jquery-1.11.1.min.js"></script>
+<script src="../jQueryAssets/jquery.ui-1.10.4.button.min.js"></script>
+</head>
+
+<body>
+<div id="top">
+  <header> 
+    <div id="logo"><img src="images/sticker-geek-zone.jpg" alt="www.csdn.com" width="210" height="130">
+    <nav> <a href="#" title="Link">首页</a> <a href="www.zdfans.com" title="Link">软件分享</a> <a href="#" title="Link">技术分享</a> <a href="https://api.vparse.org/?url=" title="Link">VIP解析</a> <a href="https://bing.ioliu.cn/" title="Link">必应壁纸</a> <a href="https://www.google.com.hk/imghp?hl=en&tab=wi" title="Link">以图搜图</a> <a href="https://msdn.itellyou.cn/" title="Link">原版系统</a>
+    <button id="Button1">搜索</button>
+<div id="footer">
+<script type="text/javascript">
+$(function() {
+	$( "#Button1" ).button(); 
+});
+</script>
+<div id="main">
+</body>
+</html>
